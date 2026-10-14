@@ -9,7 +9,6 @@
 
 ## Pending 🏗️
 
-- [ ] Update DynamoDB Cloudformation nested stack template to create a table without a sort key.
 - [ ] Implement the Lambda code.
 - [ ] API Gateway.
 - [ ] AWS Amplify.
